@@ -1,1 +1,14 @@
-.vercel
+# Dependencies
+node_modules/
+
+# Build and Deployment artifacts
+.vercel/
+dist/
+build/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
